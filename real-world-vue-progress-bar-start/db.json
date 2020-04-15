@@ -285,6 +285,46 @@
       "date": "2020-04-30T19:20:00.000Z",
       "time": "10:00",
       "attendees": []
+    },
+    {
+      "id": 7493641,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": {
+        "isTrusted": true
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "d",
+      "description": "f",
+      "location": "f",
+      "date": "2020-04-02T22:06:00.000Z",
+      "time": {
+        "isTrusted": true
+      },
+      "attendees": []
+    },
+    {
+      "id": 1178044,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Construction Workshop",
+      "description": "Let's do some home improvement",
+      "location": "My House",
+      "date": "2020-04-27T23:28:00.000Z",
+      "time": "9:00",
+      "attendees": []
     }
   ]
 }

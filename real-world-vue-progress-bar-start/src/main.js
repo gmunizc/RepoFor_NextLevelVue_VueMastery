@@ -6,6 +6,9 @@ import router from './router'
 import store from './store/store'
 import 'nprogress/nprogress.css'
 import Vuelidade from 'vuelidate'
+import DateFilter from '@/filters/date.js'
+
+Vue.filter('date', DateFilter)
 
 Vue.use(Vuelidade)
 
