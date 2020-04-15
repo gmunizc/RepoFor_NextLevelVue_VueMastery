@@ -9,7 +9,6 @@ export const formFieldMixin = {
   },
   methods: {
     updateValue(event) {
-      console.log('This is called from the mixin!')
       this.$emit('input', event.target.value)
     }
   }
