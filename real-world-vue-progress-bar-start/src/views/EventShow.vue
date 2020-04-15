@@ -29,7 +29,7 @@
 </template>
 <script>
 export default {
-  props: {
+  props: {}
     event: {
       type: Object,
       required: true
